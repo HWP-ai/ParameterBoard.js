@@ -1,5 +1,5 @@
 
-![](internet/images/dinosaur.jpg)
+![](internet/image/dinosaur.jpg)
 
 ParameterBoard.js
 =================
