@@ -1,5 +1,5 @@
 
-![](internet/image/PBcover.jpg)
+![](https://yesmyc-digitalcontenttech.github.io/ParameterBoard.js/internet/image/PBcover.png)
 
 参数板插件体系
 ==============
